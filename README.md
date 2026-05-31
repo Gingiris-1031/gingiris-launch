@@ -177,3 +177,14 @@ All playbooks live at [gingiris.com](https://gingiris.com) and [skills.sh/Gingir
 ## License
 
 MIT — Use, adapt, and build on this freely.
+
+## 🔗 Related Gingiris Skills
+
+| Skill | Focus | Install |
+|-------|-------|---------|
+| [gingiris-kol-outreach](https://github.com/Gingiris-1031/gingiris-kol-outreach) | KOL & Influencer Marketing SOP | `clawhub install gingiris-kol-outreach` |
+| [gingiris-ugc-matrix](https://github.com/Gingiris-1031/gingiris-ugc-matrix) | UGC Matrix & Multi-Platform Content | `clawhub install gingiris-ugc-matrix` |
+| [gingiris-opensource](https://github.com/Gingiris-1031/gingiris-opensource) | Open Source Launch Marketing | `clawhub install gingiris-opensource` |
+| [gingiris-go-global](https://github.com/Gingiris-1031/gingiris-go-global) | Go-Global Expansion Strategy | `clawhub install gingiris-go-global` |
+
+> 📦 **Full collection:** [gingiris-skills](https://github.com/Gingiris-1031/gingiris-skills) — All playbooks in one bundle.
