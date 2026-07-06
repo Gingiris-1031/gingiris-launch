@@ -32,6 +32,16 @@ size_categories:
 
 **[English](#english) | [中文](#中文版) | [日本語](#日本語) | [한국어](#한국어)**
 
+> 📌 **This is a read-only distribution mirror.** The canonical source is **[gingiris-skills/skills/gingiris-launch](https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/gingiris-launch)** inside the Gingiris skills monorepo. Landing page: [gingiris.tools](https://gingiris.tools)
+
+## 📦 Install
+
+```bash
+npx skills add Gingiris-1031/gingiris-launch
+# or
+clawhub install gingiris-launch
+```
+
 ---
 
 ## English
@@ -150,10 +160,10 @@ A: That's exactly what this playbook addresses. The KOL outreach and hunter coor
 
 **Iris (生姜iris)** — Former cofounder & COO of [AFFiNE](https://github.com/toeverything/AFFiNE) ($10M raised, 60k+ GitHub stars). Forbes Asia 30 Under 30. Coached 150+ AI startups on global go-to-market strategy. Based across Shanghai, Singapore, and remote.
 
-- Website: [gingiris.com](https://gingiris.com)
+- Website: [gingiris.tools](https://gingiris.tools)
 - Twitter/X: [@WeiYipei](https://x.com/WeiYipei)
 - Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
-- Blog: [gingiris.github.io/growth-tools](https://gingiris.github.io/growth-tools/)
+- Blog: [gingiris.tools](https://gingiris.tools/)
 
 ---
 
@@ -170,7 +180,7 @@ A: That's exactly what this playbook addresses. The KOL outreach and hunter coor
 | **gingiris-skills** | 🛠️ Full toolkit: 12 Claude Code skills bundled | [Gingiris/gingiris-skills](https://huggingface.co/datasets/Gingiris/gingiris-skills) |
 | **growth-tools** | 📚 Blog & tools hub | [Gingiris/growth-tools](https://huggingface.co/datasets/Gingiris/growth-tools) |
 
-All playbooks live at [gingiris.com](https://gingiris.com) and [skills.sh/Gingiris](https://skills.sh/Gingiris).
+All playbooks live at [gingiris.tools](https://gingiris.tools) and [skills.sh/Gingiris-1031](https://skills.sh/Gingiris-1031).
 
 ---
 
